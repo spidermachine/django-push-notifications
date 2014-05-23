@@ -48,8 +48,8 @@ Edit your settings.py file::
 
 	PUSH_NOTIFICATIONS_SETTINGS = {
 		"APNS_CERTIFICATE": {
-			"other":"/path/to/your/certificate.pem",
-			"cn":"/path/to/your/certificate.pem",
+			"other": "/path/to/your/certificate.pem",
+			"cn": "/path/to/your/certificate.pem",
 		},
 	}
 
